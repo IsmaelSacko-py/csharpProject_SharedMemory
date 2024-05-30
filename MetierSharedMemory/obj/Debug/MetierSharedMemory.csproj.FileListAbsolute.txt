@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\SolutionSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.dll.config
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\SolutionSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.dll
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\SolutionSharedMemory\MetierSharedMemory\bin\MetierSharedMemory.pdb
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\SolutionSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\SolutionSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\SolutionSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.dll
+C:\Users\DELL\Desktop\Mes donnees\Documents\COURS DE PYTHON\Mes Projets 2.0\SolutionSharedMemory\MetierSharedMemory\obj\Debug\MetierSharedMemory.pdb
